@@ -16,6 +16,7 @@
 /*header*/
 .nav {
   display: flex;
+
   justify-content: space-between;
   width: 1494px;
   height: 199px;
@@ -46,16 +47,8 @@
   color: #ffffff;
   text-decoration: none;
 }
-.nav a {
-  width: 210.37px;
-  height: 76.98px;
-  top: 35px;
-  left: 1183px;
-}
-.button img {
-  width: 210.37px;
-  height: 76.98px;
-  top: 35px;
+.nav .button input {
+  margin-top: 35px;
   margin-right: 73px;
 }
 /*header*/
@@ -104,10 +97,7 @@
 .container .button {
   margin-left: 73px;
 }
-.container .butonn > img {
-  width: 171px;
-  height: 63px;
-}
+
 .container .vector2 {
   margin-top: 25px;
   margin-left: 77px;
@@ -221,13 +211,11 @@
   color: #ffffff;
   margin-top: 15px;
 }
-.card.button {
-  width: 177.25px;
-  height: 69.62px;
+
+.card .button {
+  margin-left: 70px;
 }
-.button img {
-  margin-left: 73px;
-}
+
 .row {
   padding-top: 46px;
   margin-left: 58px;
@@ -261,8 +249,7 @@
 hr {
   margin-left: 73px;
   width: 420px;
-  border: 3px;
-  color: 3px solid #cc9d2f;
+  border: 2px solid #cc9d2f;
 }
 
 /*p3rd page*/
@@ -412,16 +399,15 @@ img:nth-of-type(2) {
   color: #ffffff;
   margin-top: 0px;
 }
-.container4.buton {
+.container4.button {
   width: 177.25px;
   height: 69.62px;
   margin-top: 30px;
 }
-.buton img {
+.container4 .button input {
   margin-top: 40px;
   margin-left: 660px;
 }
-
 .bottomangle {
   display: flex;
   flex-direction: row;
