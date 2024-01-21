@@ -477,7 +477,7 @@ img:nth-of-type(2) {
 .footer hr {
   width: auto;
   top: 1626px;
-  left: 527px;
+  margin-left: 0px;
   border: 1px solid #745a1e6e;
 }
 .bottom {
