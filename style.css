@@ -1,12 +1,7 @@
-.body {
-  width: auto;
-  height: auto;
-  background-color: #e5ce97;
-}
 .land {
   margin: auto;
-  width: 1496px;
-  height: 3777px;
+  width: auto;
+  height: auto;
   background-color: #5b0017;
   background-image: url("img/Rectangle\ \(5\).png");
   background-repeat: no-repeat;
